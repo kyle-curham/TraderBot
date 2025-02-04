@@ -1,0 +1,20 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Python compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Sensitive credentials file(s)
+credentials.*
+
+# Project-specific directories
+# Ignore runs folder
+runs/
+
+# Log files and folders
+logs/
+log/
+*.log
